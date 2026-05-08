@@ -1,7 +1,7 @@
 # Hey! I'm Evgenia 👋
 
 ### 🚀 FIAE Trainee | Junior Software Developer
-I am currently undergoing an **Umschulung as a Fachinformatiker für Anwendungsentwicklung** in Germany. I love building clean, functional applications and solving complex problems.
+I am currently undergoing an **Umschulung as a Fachinformatikerin für Anwendungsentwicklung** in Germany. I love building clean, functional applications and solving complex problems.
 
 ---
 
